@@ -1,0 +1,7 @@
+POST http://localhost:5000/create
+Content-Type: application/json
+
+{
+    "name": "neeraj",
+    "phone":"7878"
+}
